@@ -1,0 +1,3 @@
+model,mode,saved_epoch,test_accuracy,macro_f1
+cnn,output,9,0.919047619047619,0.9195605765811612
+rnn,output,6,0.7095238095238096,0.7008943928448573
